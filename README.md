@@ -1,9 +1,9 @@
 CUBE GAME!
 
 
-![image](https://github.com/user-attachments/assets/377e7608-5ff2-46b3-b6a5-07874af37204)
+![image](https://github.com/user-attachments/assets/29df9fc1-4f0d-480a-a436-d3e92e54a598)
 
-
+PLAY IN:
 https://amirabbas-cubegame.netlify.app
 
 
