@@ -1,0 +1,8 @@
+<svg width="400" height="100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="400" height="100" style="fill:none;" />
+
+  <!-- Space Button -->
+  <rect x="50" y="30" width="300" height="40" rx="5" ry="5" style="fill:white;stroke:black;stroke-width:2;" />
+  <text x="200" y="55" font-family="Arial" font-size="20" fill="black" text-anchor="middle">SPACE</text>
+</svg>
